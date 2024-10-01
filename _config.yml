@@ -13,7 +13,7 @@ description: >
   a buscar oportunidades para mejorar mis habilidades y adquirir
   experiencia práctica en el área.
 baseurl: ""  # the subpath of your site, e.g. /blog
-url: ""      # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://miriamyupa.github.io"      # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@Miriam60903033"
 github_username: "MiriamYupaQuispe"
 
